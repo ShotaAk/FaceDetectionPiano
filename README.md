@@ -25,3 +25,6 @@ This program detects human faces from camera capture images, and plays the piano
 
 * dlib installation on Ubuntu 14.04 (Japanese page (・∀・))
  http://vaaaaaanquish.hatenablog.com/entry/2016/08/15/193636
+
+## License
+This program is released under the 2-Clause BSD License.

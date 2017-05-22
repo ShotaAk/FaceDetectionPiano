@@ -5,12 +5,9 @@ import os
 import sys
 
 import dlib
-
 import cv2
-
 import pygame
 import time
-
 
 
 class Player:
@@ -30,6 +27,7 @@ class Player:
             self.soundC.stop()
             self.playFlag = False
 
+            
 if __name__ == "__main__":
     detector = dlib.get_frontal_face_detector()
     cap= cv2.VideoCapture(0)

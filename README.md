@@ -8,7 +8,6 @@ This program detects human faces from camera capture images, and plays the piano
 * OpenCV (2.4.8)
 * dlib (19.4.0)
 * pygame  (1.9.1)
-* skimage (0.13.0)
 
 ## Usage
     1. Connect a camera to PC
